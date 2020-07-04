@@ -42,6 +42,8 @@ function onload() {
       img.onerror = evt => reject(new Error('Image could not be loaded.'));
     });
 
+            
+            //below is my work
     loadPhoto('http://sandbox.bittsdevelopment.com/code1/employeepics/3.jpg')
       .then(img => {
         img.alt = 'image of an employee';
