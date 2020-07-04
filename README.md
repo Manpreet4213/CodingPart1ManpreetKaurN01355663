@@ -4,4 +4,4 @@
 
 ##  For image upload - https://blog.logrocket.com/improve-async-programming-with-javascript-promises-1652ac8d036d/
 * Authors - Glad Chinda  
-* date - 2 June 2020 
+* Date accessed - 2 June 2020 
